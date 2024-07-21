@@ -31,6 +31,12 @@
   - 用户Token
 参数
 
+如需搭建联系：
+https://t.me/bigboom9527
+
+更新发布：
+https://t.me/wukongkudajian
+
 部分界面截图：
 
 ![image](https://github.com/user-attachments/assets/6bcf6391-9343-49c2-a7c2-832f0bd3ec6a)
@@ -43,5 +49,4 @@
 ![image](https://github.com/user-attachments/assets/339502cb-7adb-4be6-99cc-677654700fc7)
 
 
-如需搭建联系：
-https://t.me/wukongkudajian
+
