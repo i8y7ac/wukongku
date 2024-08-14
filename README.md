@@ -1,9 +1,13 @@
 # 悟空库
-犁牛、松鼠、谷歌库三合一，完全兼容犁牛库、松鼠库、谷歌库插件。   
+悟空库全新四合一版本（犁牛、松鼠、谷歌、Cydia/Sileo源集成于一体）
 
-系统进行连接加密、程序加密、数据加密，多重保障凭证安全，谨防盗库。
+全新架构，源码编译，无漏洞无后门。 
+
+数据库凭证加密、连接加密、程序加密防盗库攻击
 
 支持本地部署、网络部署、本地+网络混合部署，防止DDOS攻击导致无法作业。
+
+独家插件管理：系统集成Cydia/Sileo源，有根无根互转，逆向改IP。   
 
    
 功能如下：
@@ -29,6 +33,12 @@
   - 谷歌验证器
   - 设备
   - 用户Token
+   
+- 插件管理
+  - 插件（上传/下载/转有根/转无根/改IP）
+  - 插件源设置
+  - 插件分类
+    
 参数
 
 如需搭建联系：
@@ -37,23 +47,9 @@ https://t.me/bigboom9527
 更新发布：
 https://t.me/wukongkudajian
 
-附：近期针对各类库的DDOS攻击频发，有被攻击的网络版老客户，可联系协助部署本地版/混合版。    
-https://t.me/bigboom9527   
-
-
-部分界面截图：
-
-![image](https://github.com/user-attachments/assets/6bcf6391-9343-49c2-a7c2-832f0bd3ec6a)
-![image](https://github.com/user-attachments/assets/9179be96-121d-436d-b844-a0c240609da6)
-![image](https://github.com/user-attachments/assets/554587bc-ad51-46b2-9098-204034cd4f93)
-![image](https://github.com/user-attachments/assets/778f4542-b870-47db-9824-17b90e127246)
-![image](https://github.com/user-attachments/assets/4f683220-def8-4712-8f81-4447000fffa1)
-![image](https://github.com/user-attachments/assets/9cdfc05a-eb21-4538-946e-c2b773b7c47f)
-![image](https://github.com/user-attachments/assets/97858f2e-3cbf-440b-b029-6391190509a8)
-![image](https://github.com/user-attachments/assets/339502cb-7adb-4be6-99cc-677654700fc7)
-
-
-- V3版本发布记录：   
+- 版本发布记录：   
+v4.1 2024-08-14   
+v4.0 2024-08-13   
 v3.13 2024-07-26   
 v3.12 2024-07-26   
 v3.11 2024-07-25   
@@ -68,3 +64,19 @@ v3.3 2024-06-21
 v3.2 2024-06-19   
 v3.1 2024-06-17   
 v3.0 2024-06-15   
+
+
+
+部分界面截图：
+![2e959d89449b276f0bdb3c72b1ff255](https://github.com/user-attachments/assets/9a8e605d-a375-4004-a233-cd48a5d4abab)
+![be76d9cd1d2fadfd0b1ccb35cd0cacf](https://github.com/user-attachments/assets/e3f60d28-7ed5-4f99-b0bf-8617adf795bd)
+![185df9c1c0235921bd14056a2e9aba5](https://github.com/user-attachments/assets/3ed19b4c-0d9a-4256-afb7-7939919c871d)
+![ad252ef79ad7917265a81177ba78357](https://github.com/user-attachments/assets/e831a27e-29ba-4008-b1d3-2f5d19169c4f)
+![f252cd7a601b891c62555f6c46f67d7](https://github.com/user-attachments/assets/45f79fdf-11fb-4b95-9c7f-a679d80f3b6c)
+![cff9317c8938368a9855ef5950bfd23](https://github.com/user-attachments/assets/bd128836-b258-4b6b-8457-071c676c8bea)
+![88043c25907eea099f03a140c44b24b](https://github.com/user-attachments/assets/edf69809-7f3a-40f3-a583-3d8827c6189d)
+
+
+
+
+
