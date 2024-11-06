@@ -49,7 +49,7 @@ https://t.me/bigboom9527
 更新发布：    
 https://t.me/wukongkudajian
 
-- 版本发布记录：
+- 版本发布记录：   
 v5.5.2 2024/11/5   
 v5.5.1 2024/11/5   
 v5.5 2024/11/5   
